@@ -1,0 +1,14 @@
+{
+    "name": "weini/ali-zmxy",
+    "description": "aliyun-zmxy",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "weini",
+            "email": "weinirumo@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
